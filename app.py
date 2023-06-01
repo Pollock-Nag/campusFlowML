@@ -43,6 +43,6 @@ def predict():
         response = {"error": str(e)}
         return response
 
-if __name__ == "__main__":
-    app.run(port=500)
+# if __name__ == "__main__":
+#     app.run(port=500)
    
